@@ -1,5 +1,5 @@
 # Stratified Random Sample Design 
-data=read.csv("C:/Users/Phoebe/Desktop/Environmental statistics/hw.csv")
+data=read.csv("C:/Users/Phoebe/Desktop/Environmental statistics/HW1.csv")
 N=100
 x=sample(1:100,20)
 x
