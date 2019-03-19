@@ -1,5 +1,5 @@
 # Simple Random Sample Design
-data=read.csv("C:/Users/Phoebe/Desktop/Environmental statistics/hw.csv")
+data=read.csv("C:/Users/Phoebe/Desktop/Environmental statistics/HW1.csv")
 x=sample(1:100,20)
 x
 SRS=data[x,2]
