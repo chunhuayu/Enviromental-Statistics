@@ -1,3 +1,4 @@
+# Stratified Random Sample Design 
 data=read.csv("C:/Users/Phoebe/Desktop/Environmental statistics/hw.csv")
 N=100
 x=sample(1:100,20)
