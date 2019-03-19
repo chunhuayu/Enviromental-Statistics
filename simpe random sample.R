@@ -1,3 +1,4 @@
+# Simple Random Sample Design
 data=read.csv("C:/Users/Phoebe/Desktop/Environmental statistics/hw.csv")
 x=sample(1:100,20)
 x
